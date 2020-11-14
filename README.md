@@ -1,1 +1,1 @@
-This is sammiwu's first git project!
+This is sammiiwu's first git project!
